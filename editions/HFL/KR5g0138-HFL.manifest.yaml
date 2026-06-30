@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0138/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0138/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上九赤班符五帝內真經
+  date: '2015-08-29 02:58:28.755384'
+  source:
+    repository: kanripo
+    path: KR5g0138
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0138_000-HFL.yaml, hash: 'sha256:037b3dad1f88cf4324612fb72d5b55e63e719a5ef0d0a82cb1cc0b17a9f92528'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0138_000-HFL.markers.yaml, hash: 'sha256:adb95f5bd6fca3be003ca112f88034dbb325384f5dbdb17700402ace9eade8f2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0138_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 7833
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:46f256a57dd44ce0eff207d26f23103c8e009579bdde91254f205f15fe3e6737
